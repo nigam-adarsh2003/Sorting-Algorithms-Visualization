@@ -22,7 +22,7 @@ Sorting Algorithms Visualization is an educational tool designed to help users l
 * Quick Sort
 * Heap Sort
 * And more!
-* 
+
 ## Prerequisites
 
 Before you begin, ensure you have the following installed:
