@@ -37,4 +37,4 @@ Before you begin, ensure you have the following installed:
 
 ### Merge Sort
 
-![example2](https://github.com/user-attachments/assets/e6ede54a-b86b-4e5b-9a27-e0c1e9cd1ab8)
+![example2](https://github.com/user-attachments/assets/5d8acd37-3987-4781-aff5-52f125cea9a1)
