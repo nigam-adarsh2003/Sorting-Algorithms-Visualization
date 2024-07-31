@@ -33,7 +33,7 @@ Before you begin, ensure you have the following installed:
 
 ### Insertion Sort
 
-![example1](https://github.com/user-attachments/assets/f7b69296-e025-4e82-beb0-15534ae42296)
+![example1](https://github.com/user-attachments/assets/7d8bd2a9-c9a5-4d56-a909-6456c664d2a3)
 
 ### Merge Sort
 
